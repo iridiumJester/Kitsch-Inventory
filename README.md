@@ -1,1 +1,1 @@
-# Kitchen-Inventory
+# Kitsch-Inventory
